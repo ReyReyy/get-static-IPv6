@@ -64,7 +64,8 @@
 ## 3. 给路由器加上固定 IPv6（可选）
 
 - 编辑 LAN 口，点击上方 **高级设置** 拉到最下面 **IPv6 后缀**，填写任何你想填的内容，只要合法即可。比如我这里填 `::1`，然后点 **保存**，**保存并应用**
-- 你的路由器的后缀就变成了 `::1`，IPv6 地址就是 `240n:xxxx:xxxx:abcd::1`
+- 你的路由器的后缀就变成了 `::1`，IPv6 地址就是 `2408:xxxx:xxxx:abcd::1`
+  ![专属IPv6地址！](https://github.com/ReyReyy/get-static-IPv6/blob/main/images/lan-after.png?raw=true)
 
 🎉 恭喜你，你的漏油器有了一个专属的 IPv6 地址～！
 
