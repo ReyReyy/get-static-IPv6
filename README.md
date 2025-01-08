@@ -48,7 +48,7 @@
 回到操作：
 
 - 点击 WAN6 接口右侧的 **编辑** 按钮
-  - **常规设置 -> 请求 IPv6 前缀** 改为 **`2408:xxxx:xxxx:abcd::/64`**（最后的部分改成你想要**且合法**的数字，比如 abcd、1234、cafe
+  - **常规设置 -> 请求 IPv6 前缀** 改为 **`240n:xxxx:xxxx:abcd::/64`**（最后的部分改成你想要**且合法**的数字，比如 abcd、1234、cafe
     、face 之类的）
     ![常规设置](https://github.com/ReyReyy/get-static-IPv6/blob/main/images/interface-example.png?raw=true)
   - **高级设置 -> 强制链路** 打勾
